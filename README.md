@@ -1,4 +1,4 @@
-# csrf
+# How to Deploy for Testing
 First start the apache server by using xampp.
 After download this source codes, open netbeans IDE and open this project by using netbeans under "PHP application with existing sources" option.
 To run that program press the run button in netbeans menu.
